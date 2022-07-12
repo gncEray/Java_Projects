@@ -9,10 +9,7 @@ import java.util.Scanner;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author Gökan
- */
+
 public class VacuumCleaner {
     
     String state;
